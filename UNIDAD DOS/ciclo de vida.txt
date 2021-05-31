@@ -1,0 +1,14 @@
+ciclo de vida de una actividad  (android etudio)
+onCreate----crea la actividad
+onestar--iniciar la actividad
+onResume--mostrar la actividad
+activity Running
+
+onRestar---reinicia otravez
+
+https://www.youtube.com/watch?v=poipVVd2jzU
+
+investigar:
+¿para que sirve el layout y para que se utiliza?
+cuales son todos los layouts que se pueden ocupar
+
